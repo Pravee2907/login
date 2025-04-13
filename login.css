@@ -1,0 +1,18 @@
+    <style>
+        #p{
+            padding:0px;
+            text-align: center;
+            border:60px solid rgb(67, 67, 206);
+        }
+        #y{
+            padding:0px;
+            background-color: darkcyan;
+            height: fit-content;
+        }
+        .p{
+            background-color: antiquewhite;
+            border-radius: 5px;
+            line-height: 20px;
+            width: 70%;
+        }
+    </style>
